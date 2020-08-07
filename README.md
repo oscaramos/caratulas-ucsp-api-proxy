@@ -5,4 +5,5 @@ que la parte front-end se conecte con la back-end sin el problema de [Content-Mi
 Otra solución es conseguirse un dominio y un certificado... pero... pagar el alquiler de un dominio anualmente para
 algo que otros proveedores dan [gratis](https://www.heroku.com/home)... no me parece adecuado.
 
-
+## Despliegue
+Usa vercel y está disponible en esta url `https://caratulas-ucsp-api-proxy.vercel.app/api/cover`
