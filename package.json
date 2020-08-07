@@ -1,0 +1,13 @@
+{
+  "name": "caratulas-ucsp-api-proxy",
+  "version": "1.0.0",
+  "description": "Proxy de la api de las caratulas ucsp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Ramos",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
